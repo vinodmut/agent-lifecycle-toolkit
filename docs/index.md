@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AgentToolkit/agent-lifecycle-toolkit">
-    <img src="https://img.shields.io/github/stars/AgentToolkit/agent-lifecycle-toolkit.svg?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/AgentToolkit/agent-lifecycle-toolkit.svg?style=social" alt="GitHub stars"> &nbsp; Star us on GitHub!
   </a>
 </p>
 
