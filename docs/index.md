@@ -4,11 +4,11 @@
 
 <h4 align="center">Delivering plug-and-play, framework-agnostic technology to boost agents' performance</h4>
 
-<p align="center">
-  Star us on GitHub! &nbsp; <a href="https://github.com/AgentToolkit/agent-lifecycle-toolkit">
+<div align="center" style="border: 2px solid #4CAF50; padding: 10px; margin: 20px auto; max-width: fit-content; border-radius: 5px;">
+  <b>Star us on GitHub!</b> &nbsp; <a href="https://github.com/AgentToolkit/agent-lifecycle-toolkit">
     <img src="https://img.shields.io/github/stars/AgentToolkit/agent-lifecycle-toolkit.svg?style=social" alt="GitHub stars">
   </a>
-</p>
+</div>
 
 ## What is ALTK?
 The Agent Lifecycle Toolkit helps agent builders create better performing agents by easily integrating our components into agent pipelines. The components help improve the performance of agents by addressing key gaps in various stages of the agent lifecycle, such as in reasoning, or tool calling errors, or output guardrails.
