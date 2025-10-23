@@ -5,8 +5,8 @@
 <h4 align="center">Delivering plug-and-play, framework-agnostic technology to boost agents' performance</h4>
 
 <p align="center">
-  <a href="https://github.com/AgentToolkit/agent-lifecycle-toolkit">
-    <img src="https://img.shields.io/github/stars/AgentToolkit/agent-lifecycle-toolkit.svg?style=social" alt="GitHub stars"> &nbsp; Star us on GitHub!
+  Star us on GitHub! &nbsp; <a href="https://github.com/AgentToolkit/agent-lifecycle-toolkit">
+    <img src="https://img.shields.io/github/stars/AgentToolkit/agent-lifecycle-toolkit.svg?style=social" alt="GitHub stars">
   </a>
 </p>
 
